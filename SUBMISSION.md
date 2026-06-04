@@ -2,7 +2,7 @@
 
 ## What I Learnt
 
-From this task I learnt a bit more about how chat based AI apps work. One thing I found interesting was that the API itself doesn't remember previous msgs, so the conversation history has to be stored and sent again each time. I also got some practice working with API keys and environment variables.
+From this task I learnt a bit more about how chat based AI apps work the API itself doesn't remember previous msgs, so the conversation history has to be stored and sent again each time.... also got some practice working with API keys and environment variables.
 
 ## Decisions I Made
 
